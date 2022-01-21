@@ -320,5 +320,4 @@ class Web3ChannelProvider extends EventEmitter {
 window.web3Channel = {
   Provider: Web3ChannelProvider,
   Web3: Web3,
-  postMessage: null,
 };
